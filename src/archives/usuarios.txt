@@ -1,0 +1,2 @@
+Sergito,123456,src/resources/Sergito.jpg
+Wilchitos,987654,src/resources/Wilchitos.jpg
